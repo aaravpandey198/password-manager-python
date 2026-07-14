@@ -4,10 +4,13 @@ A simple command-line password manager built with Python. This project allows us
 
 ## Features
 
+- Master password authentication
 - Add account credentials
 - View saved credentials
-- Store data in text files
-- Simple command-line interface
+- Automatic file handling using `with open()`
+- Input validation for empty fields
+- Graceful error handling for missing files
+- User-friendly command-line menu
 
 ## Technologies Used
 
