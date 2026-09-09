@@ -23,6 +23,7 @@ def view():
 
 # Add a new account and password
 def add():
+    
     acc = input("Enter account name: ").strip()
     passwd = input("Enter the password: ").strip()
 
