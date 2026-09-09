@@ -41,7 +41,7 @@ python password_manager.py
 
 - Encrypt stored passwords
 - Password generator
-- Search passwords
+- Search passwordss
 - Delete passwords
 - Update passwords
 - GUI version
